@@ -40,7 +40,6 @@ while run:
     print("Score: Computer " + str(c) + " Player " + str(p))
     print("")
     
-
     '''elif p / 2 >= c:
         break
         print("Player won by doubble your score: " + str(p))
