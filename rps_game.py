@@ -3,7 +3,7 @@ game_list = ['rock', 'paper', 'scissor']
 computer = c = 0
 command = p = 0
 print("Score: Computer " + str(c) + " Player " + str(p))
-# the loop
+# the loop starts here
 run = True
 while run:
     computer_choice = random.choice(game_list)
